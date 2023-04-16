@@ -17,4 +17,5 @@ func main() {
 	fmt.Println(isBool && hate)
 	fmt.Println(isBool || hate)
 	fmt.Println(!isBool)
+
 }
